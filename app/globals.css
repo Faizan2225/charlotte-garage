@@ -1,0 +1,159 @@
+@import "tailwindcss";
+
+:root {
+	/* Charlotte Garage Door Repair theme */
+	--background: #0a0a0a; /* Deep Gloss Black */
+	--foreground: #ededed;
+	--candy-red: #e31b23;
+	--gloss-black: #0a0a0a;
+	--charcoal: #2b2b2b;
+	/* Chrome silver gradient */
+	--chrome-gradient: linear-gradient(180deg, #ffffff 0%, #c8ccd1 45%, #7a828a 100%);
+}
+
+@theme inline {
+	--color-background: var(--background);
+	--color-foreground: var(--foreground);
+	--font-sans: var(--font-geist-sans);
+	--font-mono: var(--font-geist-mono);
+}
+
+body {
+	background: var(--gloss-black);
+	color: var(--foreground);
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Chrome silver finish on main headings */
+h1,
+h2,
+.text-chrome {
+	background: var(--chrome-gradient);
+	-webkit-background-clip: text;
+	background-clip: text;
+	-webkit-text-fill-color: transparent;
+	color: transparent;
+}
+
+/* Keep red accent spans red even inside chrome headings */
+.id-color {
+	background: none !important;
+	-webkit-text-fill-color: var(--primary-color) !important;
+	color: var(--primary-color) !important;
+}
+
+/* Keep headings readable on the red (bg-color) call-to-action bands */
+.bg-color h1,
+.bg-color h2,
+.bg-color h3,
+.bg-color h4 {
+	background: none !important;
+	-webkit-text-fill-color: #fff !important;
+	color: #fff !important;
+}
+
+/* Menu hover effect */
+/* Main menu items - red hover */
+#mainmenu > li > a:hover,
+#mainmenu > li > a.active,
+#mainmenu > li > .menu-item:hover {
+	color: var(--candy-red) !important;
+}
+
+/* Submenu items - chrome silver hover */
+#mainmenu li ul li a:hover,
+#mainmenu li ul li a.active {
+	color: #b8bfc2 !important;
+}
+
+/* Desktop-only top padding utility to align hero rows across service pages */
+.mt-desktop-10 {
+	margin-top: 0 !important ; /* default: no extra padding on mobile/tablet */
+}
+
+@media (min-width: 992px) {
+	.mt-desktop-10 {
+		margin-top: 10rem !important ; /* apply 50px top padding on desktop and above */
+	}
+}
+
+/* Blog image hover effect */
+.blog-image-wrapper:hover img {
+	transform: scale(1.05) !important;
+}
+
+/* Blog article content styling */
+.blog-article-content h3 {
+	color: #fff;
+	margin-top: 2rem;
+	margin-bottom: 1rem;
+	font-size: 1.5rem;
+}
+
+.blog-article-content p {
+	color: rgba(255, 255, 255, 0.8);
+	margin-bottom: 1.25rem;
+}
+
+.blog-article-content ul {
+	color: rgba(255, 255, 255, 0.8);
+	padding-left: 1.5rem;
+	margin-bottom: 1.25rem;
+}
+
+.blog-article-content li {
+	margin-bottom: 0.5rem;
+}
+
+.blog-article-content a {
+	color: var(--primary-color);
+	text-decoration: underline;
+}
+
+.blog-article-content a:hover {
+	color: #ff4b52;
+}
+
+.blog-article-content strong {
+	color: #fff;
+}
+
+/* Show Make Appointment button on mobile, to the left of burger icon */
+@media only screen and (max-width: 992px) {
+	header .de-flex .de-flex-col .menu_side_area {
+		display: flex !important;
+		flex-direction: row !important;
+		align-items: center !important;
+		justify-content: flex-end !important;
+	}
+
+	header .de-flex .de-flex-col .menu_side_area a.btn-main.fx-slide.hover-white {
+		display: inline-flex !important;
+		padding: 8px 15px !important;
+		font-size: 12px !important;
+		margin-right: 15px !important;
+		order: 1 !important;
+	}
+
+	header .de-flex .de-flex-col .menu_side_area #menu-btn {
+		float: none !important;
+		order: 2 !important;
+		margin-left: 0 !important;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	header .de-flex .de-flex-col .menu_side_area a.btn-main.fx-slide.hover-white {
+		display: inline-flex !important;
+	}
+}
+
+.text-light-link {
+	color: inherit !important;
+	text-decoration: underline !important;
+}
+
+.text-light-link:hover {
+	color: var(--primary-color) !important;
+}
+
