@@ -13,8 +13,8 @@ export default function CableRepairPage() {
 			subtitle="Cable Service"
 			heading="Garage Door Cable Repair & Replacement in Charlotte, NC"
 			intro="Garage door lifting cables work in tandem with your torsion springs to raise hundreds of pounds of door weight smoothly. Frayed, loose, or snapped cables cause doors to hang crookedly or crash unexpectedly. We provide expert cable rethreading and replacement."
-			heroImage="/images/IMG_0766.jpg"
-			bandImage="/images/IMG_0770.jpg"
+			heroImage="/images/opener-repair/IMG_0766.jpg"
+			bandImage="/images/spring-repair/IMG_0770.jpg"
 			steps={[
 				{
 					icon: "fas fa-exclamation-triangle",

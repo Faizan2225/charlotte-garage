@@ -7,7 +7,7 @@ export default function FAQsPage() {
     <div className="no-bottom no-top" id="content">
       <section className="text-light jarallax">
         <Image
-          src="/images/IMG_0777.jpg"
+          src="/images/spring-repair/IMG_0777.jpg"
           className="jarallax-img"
           alt="FAQs Background"
           width={1920}

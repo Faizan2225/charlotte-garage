@@ -28,7 +28,7 @@ export default function IndianLandSCPage() {
 					text: "Comprehensive 21-point safety inspection & lubrication.",
 				},
 			]}
-			image="/images/IMG_0774.jpg"
+			image="/images/garage-door-repair/IMG_0774.jpg"
 			ctaHeading="Need garage door repair in Indian Land, SC? Call (828) 450-2416!"
 		/>
 	);

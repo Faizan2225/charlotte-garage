@@ -18,7 +18,7 @@ export const blogPosts: BlogPost[] = [
 			"Broken or worn garage door springs can leave your door stuck or create serious safety hazards. Learn the warning signs before complete spring failure occurs.",
 		date: "February 2, 2026",
 		author: "Charlotte Garage Door Team",
-		imageUrl: "/images/IMG_0764.jpg",
+		imageUrl: "/images/opener-repair/IMG_0764.jpg",
 		category: "Spring Repair",
 		keywords: [
 			"garage door spring repair",
@@ -55,7 +55,7 @@ export const blogPosts: BlogPost[] = [
 			"A broken garage door never happens at a convenient time. Discover how emergency repair services protect your property and family security.",
 		date: "February 9, 2026",
 		author: "Charlotte Garage Door Team",
-		imageUrl: "/images/IMG_0770.jpg",
+		imageUrl: "/images/spring-repair/IMG_0770.jpg",
 		category: "Emergency Repair",
 		keywords: [
 			"24/7 emergency garage door repair",
@@ -85,7 +85,7 @@ export const blogPosts: BlogPost[] = [
 			"From belt drive to smart Wi-Fi openers, compare quiet performance, horsepower, and features to choose the perfect opener for your garage.",
 		date: "February 16, 2026",
 		author: "Charlotte Garage Door Team",
-		imageUrl: "/images/IMG_0068.jpg",
+		imageUrl: "/images/garage-door-repair/IMG_0068.jpg",
 		category: "Opener Installation",
 		keywords: [
 			"garage door opener installation",
@@ -115,7 +115,7 @@ export const blogPosts: BlogPost[] = [
 			"Routine maintenance prevents costly breakdowns and extends door longevity. Here's a simple checklist to keep your garage door running smoothly.",
 		date: "February 23, 2026",
 		author: "Charlotte Garage Door Team",
-		imageUrl: "/images/IMG_0774.jpg",
+		imageUrl: "/images/garage-door-repair/IMG_0774.jpg",
 		category: "Maintenance",
 		keywords: [
 			"garage door maintenance",

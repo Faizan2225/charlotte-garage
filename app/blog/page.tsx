@@ -22,7 +22,7 @@ export const metadata: Metadata = {
 		type: "website",
 		images: [
 			{
-				url: "/images/IMG_0764.jpg",
+				url: "/images/opener-repair/IMG_0764.jpg",
 				width: 1200,
 				height: 630,
 				alt: "Garage Door Blog",
@@ -53,7 +53,7 @@ export default function BlogPage() {
 				style={{ marginTop: "120px" }}
 			>
 				<Image
-					src="/images/IMG_0777.jpg"
+					src="/images/spring-repair/IMG_0777.jpg"
 					className="jarallax-img"
 					alt="Charlotte Garage Door Repair Blog"
 					width={1920}

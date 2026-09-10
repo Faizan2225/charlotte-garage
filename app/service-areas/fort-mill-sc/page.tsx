@@ -28,7 +28,7 @@ export default function FortMillSCPage() {
 					text: "Control and monitor your door remotely via smartphone app.",
 				},
 			]}
-			image="/images/IMG_0777.jpg"
+			image="/images/spring-repair/IMG_0777.jpg"
 			ctaHeading="Need garage door service in Fort Mill, SC? Call (828) 450-2416!"
 		/>
 	);

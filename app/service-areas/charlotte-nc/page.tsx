@@ -28,7 +28,7 @@ export default function CharlotteNCPage() {
 					text: "No hidden fees or surprise charges — honest estimates on every repair.",
 				},
 			]}
-			image="/images/IMG_0770.jpg"
+			image="/images/spring-repair/IMG_0770.jpg"
 			ctaHeading="Need garage door repair in Charlotte, NC? Call (828) 450-2416 now!"
 		/>
 	);

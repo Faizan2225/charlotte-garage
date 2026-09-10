@@ -21,7 +21,7 @@ export default function AppointmentPage() {
 	return (
 		<div className="no-bottom no-top" id="content">
 			<section className="text-light jarallax">
-				<img src="/images/IMG_0777.jpg" className="jarallax-img" alt="" />
+				<img src="/images/spring-repair/IMG_0777.jpg" className="jarallax-img" alt="" />
 				<div className="center-y relative text-center">
 					<div className="container">
 						<div className="row">

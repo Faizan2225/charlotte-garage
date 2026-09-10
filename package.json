@@ -1,5 +1,5 @@
 {
-  "name": "rays-detailing-service",
+  "name": "charlotte-garage",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -7,6 +7,12 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "sharp",
+      "unrs-resolver"
+    ]
   },
   "dependencies": {
     "lucide-react": "^0.563.0",

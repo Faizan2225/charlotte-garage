@@ -13,8 +13,8 @@ export default function GarageDoorReplacementPage() {
 			subtitle="Full Replacement"
 			heading="Garage Door Replacement Services in Charlotte, NC"
 			intro="When an old garage door suffers severe panel damage, structural rot, or constant mechanical breakdowns, replacement is often the most cost-effective solution. Charlotte Garage Door Repair replaces aging doors with high-R-value insulated models designed to last."
-			heroImage="/images/IMG_0780.jpg"
-			bandImage="/images/IMG_0769.jpg"
+			heroImage="/images/spring-repair/IMG_0780.jpg"
+			bandImage="/images/cable-repair/IMG_0769.jpg"
 			steps={[
 				{
 					icon: "fas fa-home",

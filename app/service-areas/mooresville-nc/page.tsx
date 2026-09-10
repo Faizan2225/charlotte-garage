@@ -28,7 +28,7 @@ export default function MooresvilleNCPage() {
 					text: "Full safety checks, track adjustments, and silicone lubrication.",
 				},
 			]}
-			image="/images/IMG_0764.jpg"
+			image="/images/opener-repair/IMG_0764.jpg"
 			ctaHeading="Need garage door service in Mooresville, NC? Call (828) 450-2416!"
 		/>
 	);

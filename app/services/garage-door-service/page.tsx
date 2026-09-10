@@ -13,8 +13,8 @@ export default function GarageDoorServicePage() {
 			subtitle="Routine Service"
 			heading="Comprehensive Garage Door Service & Tune-Up"
 			intro="Regular maintenance and servicing extend the lifespan of your garage door while preventing sudden spring or cable breakdowns. Our comprehensive tune-up inspects every moving component, tightens hardware, adjusts track clearances, and lubricates all wear points."
-			heroImage="/images/IMG_0774.jpg"
-			bandImage="/images/IMG_0766.jpg"
+			heroImage="/images/garage-door-repair/IMG_0774.jpg"
+			bandImage="/images/opener-repair/IMG_0766.jpg"
 			steps={[
 				{
 					icon: "fas fa-search",

@@ -28,7 +28,7 @@ export default function ConcordNCPage() {
 					text: "Custom sectional garage doors in carriage house and modern styles.",
 				},
 			]}
-			image="/images/IMG_0770.jpg"
+			image="/images/spring-repair/IMG_0770.jpg"
 			ctaHeading="Need garage door repair in Concord, NC? Call (828) 450-2416!"
 		/>
 	);

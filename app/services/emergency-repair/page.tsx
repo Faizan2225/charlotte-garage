@@ -13,8 +13,8 @@ export default function EmergencyRepairPage() {
 			subtitle="24/7 Emergency Dispatch"
 			heading="24/7 Emergency Garage Door Repair in Charlotte, NC"
 			intro="A broken garage door never happens at a convenient time. Whether your door snapped a cable at midnight or jumped off track right before your morning commute, Charlotte Garage Door Repair provides fast 24/7 emergency dispatch to secure your home."
-			heroImage="/images/IMG_0770.jpg"
-			bandImage="/images/IMG_0777.jpg"
+			heroImage="/images/spring-repair/IMG_0770.jpg"
+			bandImage="/images/spring-repair/IMG_0777.jpg"
 			steps={[
 				{
 					icon: "fas fa-phone-alt",

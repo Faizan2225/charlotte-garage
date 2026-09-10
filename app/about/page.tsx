@@ -30,7 +30,7 @@ export default function AboutPage() {
 		<div className="no-bottom no-top" id="content">
 			<section className="text-light jarallax">
 				<img
-					src="/images/IMG_0777.jpg"
+					src="/images/spring-repair/IMG_0777.jpg"
 					className="jarallax-img"
 					alt="About Charlotte Garage Door Repair"
 				/>
@@ -67,7 +67,7 @@ export default function AboutPage() {
 						</div>
 						<div className="col-lg-6">
 							<img
-								src="/images/IMG_0769.jpg"
+								src="/images/cable-repair/IMG_0769.jpg"
 								className="img-fluid rounded"
 								alt="Charlotte Garage Door Repair Service"
 							/>

@@ -28,7 +28,7 @@ export default function MatthewsNCPage() {
 					text: "Annual tune-ups to extend motor and door hardware lifespan.",
 				},
 			]}
-			image="/images/IMG_0068.jpg"
+			image="/images/garage-door-repair/IMG_0068.jpg"
 			ctaHeading="Need garage door service in Matthews, NC? Call (828) 450-2416!"
 		/>
 	);

@@ -13,8 +13,8 @@ export default function GarageDoorRepairPage() {
 			subtitle="Expert Repair"
 			heading="Professional Garage Door Repair in Charlotte, NC"
 			intro="When your garage door breaks or stops opening smoothly, it creates an immediate inconvenience and potential security risk. Charlotte Garage Door Repair provides fast, comprehensive repair services for broken springs, frayed cables, off-track rollers, damaged panels, and malfunctioning openers."
-			heroImage="/images/IMG_0770.jpg"
-			bandImage="/images/IMG_0777.jpg"
+			heroImage="/images/spring-repair/IMG_0770.jpg"
+			bandImage="/images/spring-repair/IMG_0777.jpg"
 			steps={[
 				{
 					icon: "fas fa-stethoscope",

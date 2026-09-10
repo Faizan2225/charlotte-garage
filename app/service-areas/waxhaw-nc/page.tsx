@@ -28,7 +28,7 @@ export default function WaxhawNCPage() {
 					text: "Whisper-quiet LiftMaster and Genie smart openers with app controls.",
 				},
 			]}
-			image="/images/IMG_0769.jpg"
+			image="/images/cable-repair/IMG_0769.jpg"
 			ctaHeading="Need garage door repair in Waxhaw, NC? Call (828) 450-2416!"
 		/>
 	);

@@ -13,8 +13,8 @@ export default function SpringRepairPage() {
 			subtitle="Spring Replacement"
 			heading="Garage Door Spring Repair & Replacement in Charlotte, NC"
 			intro="Garage door springs do the heavy lifting for your door. When a spring snaps, your door becomes impossibly heavy and dangerous to operate. We provide safe, professional torsion and extension spring replacement using high-cycle oil-tempered steel springs."
-			heroImage="/images/IMG_0764.jpg"
-			bandImage="/images/IMG_0778.jpg"
+			heroImage="/images/opener-repair/IMG_0764.jpg"
+			bandImage="/images/spring-repair/IMG_0778.jpg"
 			steps={[
 				{
 					icon: "fas fa-shield-virus",

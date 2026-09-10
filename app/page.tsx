@@ -76,7 +76,7 @@ export default function Home() {
 							<div className="swiper-slide">
 								<div
 									className="swiper-inner"
-									data-bgimage="url(/images/IMG_0777.jpg)"
+									data-bgimage="url(/images/spring-repair/IMG_0777.jpg)"
 								>
 									<div className="gradient-edge-top h-20 op-5"></div>
 									<div className="gradient-edge-bottom h-50"></div>
@@ -87,7 +87,7 @@ export default function Home() {
 							<div className="swiper-slide">
 								<div
 									className="swiper-inner"
-									data-bgimage="url(/images/IMG_0770.jpg)"
+									data-bgimage="url(/images/spring-repair/IMG_0770.jpg)"
 								>
 									<div className="gradient-edge-top h-20 op-5"></div>
 									<div className="gradient-edge-bottom h-50"></div>
@@ -98,7 +98,7 @@ export default function Home() {
 							<div className="swiper-slide">
 								<div
 									className="swiper-inner"
-									data-bgimage="url(/images/IMG_0769.jpg)"
+									data-bgimage="url(/images/cable-repair/IMG_0769.jpg)"
 								>
 									<div className="gradient-edge-top h-20 op-5"></div>
 									<div className="gradient-edge-bottom h-50"></div>
@@ -145,7 +145,7 @@ export default function Home() {
 										<div className="col-lg-12">
 											<div className="rounded-1 overflow-hidden wow zoomIn">
 												<Image
-													src="/images/IMG_0764.jpg"
+													src="/images/opener-repair/IMG_0764.jpg"
 													className="w-100 wow scaleIn"
 													alt="Garage Door Spring Repair"
 													width={400}
@@ -164,7 +164,7 @@ export default function Home() {
 												data-wow-delay=".3s"
 											>
 												<Image
-													src="/images/IMG_0068.jpg"
+													src="/images/garage-door-repair/IMG_0068.jpg"
 													className="w-100 wow scaleIn"
 													alt="Garage Door Opener Repair"
 													width={400}
@@ -272,7 +272,7 @@ export default function Home() {
 			{/* Parallax Image Section */}
 			<section className="pb-80 jarallax" aria-label="section">
 				<Image
-					src="/images/IMG_0777.jpg"
+					src="/images/spring-repair/IMG_0777.jpg"
 					className="jarallax-img"
 					alt="Garage Door Installation"
 					width={1920}
@@ -284,7 +284,7 @@ export default function Home() {
 					<div className="row g-4 justify-content-center">
 						<div className="col-lg-10">
 							<Image
-								src="/images/IMG_0769.jpg"
+								src="/images/cable-repair/IMG_0769.jpg"
 								className="w-100 rounded-1"
 								alt="Residential Garage Door"
 								width={1200}
@@ -356,8 +356,8 @@ export default function Home() {
 				subtitle="Real Results"
 				title="Before & After: Smooth, Safe Operation"
 				description="See the difference professional garage door repair and installation make — from rusted, off-track, or noisy doors to quiet, balanced, and insulated door systems."
-				beforeImage="/images/IMG_0764.jpg"
-				afterImage="/images/IMG_0769.jpg"
+				beforeImage="/images/opener-repair/IMG_0764.jpg"
+				afterImage="/images/cable-repair/IMG_0769.jpg"
 				beforeAlt="Before Repair"
 				afterAlt="After Repair"
 				imageWidth={800}
@@ -437,7 +437,7 @@ export default function Home() {
 				<div className="gradient-edge-top"></div>
 				<div className="gradient-edge-bottom"></div>
 				<Image
-					src="/images/IMG_0770.jpg"
+					src="/images/spring-repair/IMG_0770.jpg"
 					className="jarallax-img"
 					alt=""
 					width={1000}

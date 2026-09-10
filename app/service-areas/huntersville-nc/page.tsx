@@ -28,7 +28,7 @@ export default function HuntersvilleNCPage() {
 					text: "Energy-efficient sectional doors built to withstand severe weather.",
 				},
 			]}
-			image="/images/IMG_0780.jpg"
+			image="/images/spring-repair/IMG_0780.jpg"
 			ctaHeading="Need garage door repair in Huntersville, NC? Call (828) 450-2416!"
 		/>
 	);

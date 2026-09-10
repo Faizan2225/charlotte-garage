@@ -28,7 +28,7 @@ export default function IndianTrailNCPage() {
 					text: "Clear, upfront pricing with full warranty backing on parts & labor.",
 				},
 			]}
-			image="/images/IMG_0766.jpg"
+			image="/images/opener-repair/IMG_0766.jpg"
 			ctaHeading="Need garage door repair in Indian Trail, NC? Call (828) 450-2416!"
 		/>
 	);

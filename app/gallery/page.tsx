@@ -43,7 +43,7 @@ export default function GalleryPage() {
 				style={{ marginTop: "120px" }}
 			>
 				<Image
-					src="/images/IMG_0777.jpg"
+					src="/images/spring-repair/IMG_0777.jpg"
 					className="jarallax-img"
 					alt="Gallery background"
 					width={1920}

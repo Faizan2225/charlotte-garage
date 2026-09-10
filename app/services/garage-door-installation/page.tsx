@@ -13,8 +13,8 @@ export default function GarageDoorInstallationPage() {
 			subtitle="New Door Installation"
 			heading="Residential Garage Door Installation in Charlotte, NC"
 			intro="Upgrade your home's curb appeal, energy efficiency, and security with professional garage door installation from Charlotte Garage Door Repair. We offer top-quality insulated steel, carriage house, and modern garage doors customized for your home."
-			heroImage="/images/IMG_0769.jpg"
-			bandImage="/images/IMG_0777.jpg"
+			heroImage="/images/cable-repair/IMG_0769.jpg"
+			bandImage="/images/spring-repair/IMG_0777.jpg"
 			steps={[
 				{
 					icon: "fas fa-ruler-combined",
