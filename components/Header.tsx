@@ -59,8 +59,8 @@ export default function Header() {
 
 	return (
 		<header
-			className="transparent smaller"
-			style={{ position: "fixed", top: 0 }}
+			className="transparent"
+			style={{ position: "fixed", top: 0, left: 0, right: 0, zIndex: 999 }}
 		>
 			<div id="topbar" className="bg-color text-light">
 				<div className="container">
@@ -99,16 +99,18 @@ export default function Header() {
 											className="logo-main"
 											src="/logo.png"
 											alt="Charlotte Garage Door Repair"
-											width={150}
-											height={100}
+											width={50}
+											height={55}
+											style={{ height: "auto", maxHeight: "46px", width: "auto" }}
 											priority
 										/>
 										<Image
 											className="logo-mobile"
 											src="/logo.png"
 											alt="Charlotte Garage Door Repair"
-											width={120}
-											height={80}
+											width={40}
+											height={44}
+											style={{ height: "auto", maxHeight: "38px", width: "auto" }}
 											priority
 										/>
 									</Link>

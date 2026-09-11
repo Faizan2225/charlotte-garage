@@ -157,3 +157,71 @@ h2,
 	color: var(--primary-color) !important;
 }
 
+/* Fix header scroll position and navigation visibility */
+header,
+header.smaller,
+header.scroll-down,
+header.scroll-up,
+header.nav-up {
+	position: fixed !important;
+	top: 0 !important;
+	left: 0 !important;
+	right: 0 !important;
+	width: 100% !important;
+	margin-top: 0 !important; /* Prevents scroll-down from shifting header up by -90px */
+	transform: none !important;
+	transition: background 0.3s ease, padding 0.3s ease !important;
+	z-index: 999 !important;
+}
+
+header.smaller #topbar,
+header.scroll-down #topbar {
+	display: none !important;
+}
+
+header.smaller,
+header.scroll-down {
+	background: rgba(10, 10, 10, 0.95) !important;
+	-webkit-backdrop-filter: blur(12px) !important;
+	backdrop-filter: blur(12px) !important;
+	box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5) !important;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
+	padding: 4px 0 !important;
+}
+
+/* Reduced logo size in navbar */
+#logo img,
+header div#logo img,
+header .logo-main {
+	max-height: 48px !important;
+	width: auto !important;
+	height: auto !important;
+	object-fit: contain !important;
+	transition: max-height 0.3s ease !important;
+}
+
+header .logo-mobile {
+	max-height: 38px !important;
+	width: auto !important;
+	height: auto !important;
+	object-fit: contain !important;
+}
+
+header.smaller #logo img,
+header.scroll-down #logo img {
+	max-height: 40px !important;
+}
+
+/* Ensure menu items stay visible and centered */
+#mainmenu > li > a {
+	line-height: normal !important;
+	padding-top: 14px !important;
+	padding-bottom: 14px !important;
+}
+
+header.smaller #mainmenu > li > a,
+header.scroll-down #mainmenu > li > a {
+	padding-top: 10px !important;
+	padding-bottom: 10px !important;
+}
+
