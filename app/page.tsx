@@ -76,7 +76,7 @@ export default function Home() {
 							<div className="swiper-slide">
 								<div
 									className="swiper-inner"
-									data-bgimage="url(/images/spring-repair/IMG_0777.jpg)"
+									data-bgimage="url(/images/hero/hero-1.jpg)"
 								>
 									<div className="gradient-edge-top h-20 op-5"></div>
 									<div className="gradient-edge-bottom h-50"></div>
@@ -87,7 +87,7 @@ export default function Home() {
 							<div className="swiper-slide">
 								<div
 									className="swiper-inner"
-									data-bgimage="url(/images/spring-repair/IMG_0770.jpg)"
+									data-bgimage="url(/images/hero/hero-2.jpg)"
 								>
 									<div className="gradient-edge-top h-20 op-5"></div>
 									<div className="gradient-edge-bottom h-50"></div>
@@ -98,7 +98,7 @@ export default function Home() {
 							<div className="swiper-slide">
 								<div
 									className="swiper-inner"
-									data-bgimage="url(/images/cable-repair/IMG_0769.jpg)"
+									data-bgimage="url(/images/hero/hero-3.jpg)"
 								>
 									<div className="gradient-edge-top h-20 op-5"></div>
 									<div className="gradient-edge-bottom h-50"></div>
