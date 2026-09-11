@@ -99,18 +99,18 @@ export default function Header() {
 											className="logo-main"
 											src="/logo.png"
 											alt="Charlotte Garage Door Repair"
-											width={50}
-											height={55}
-											style={{ height: "auto", maxHeight: "46px", width: "auto" }}
+											width={85}
+											height={90}
+											style={{ height: "auto", maxHeight: "85px", width: "auto" }}
 											priority
 										/>
 										<Image
 											className="logo-mobile"
 											src="/logo.png"
 											alt="Charlotte Garage Door Repair"
-											width={40}
-											height={44}
-											style={{ height: "auto", maxHeight: "38px", width: "auto" }}
+											width={60}
+											height={65}
+											style={{ height: "auto", maxHeight: "60px", width: "auto" }}
 											priority
 										/>
 									</Link>

@@ -189,11 +189,11 @@ header.scroll-down {
 	padding: 4px 0 !important;
 }
 
-/* Reduced logo size in navbar */
+/* Logo size in navbar */
 #logo img,
 header div#logo img,
 header .logo-main {
-	max-height: 48px !important;
+	max-height: 85px !important;
 	width: auto !important;
 	height: auto !important;
 	object-fit: contain !important;
@@ -201,7 +201,7 @@ header .logo-main {
 }
 
 header .logo-mobile {
-	max-height: 38px !important;
+	max-height: 60px !important;
 	width: auto !important;
 	height: auto !important;
 	object-fit: contain !important;
@@ -209,7 +209,7 @@ header .logo-mobile {
 
 header.smaller #logo img,
 header.scroll-down #logo img {
-	max-height: 40px !important;
+	max-height: 70px !important;
 }
 
 /* Ensure menu items stay visible and centered */
