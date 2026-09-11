@@ -33,7 +33,7 @@ export const services = [
 		title: "Garage Door Repair",
 		description:
 			"Fast, reliable repair for broken springs, off-track doors, worn rollers, and damaged panels. We restore safe, quiet operation to your garage door.",
-		image: "/images/spring-repair/IMG_0770.jpg",
+		image: "/images/garage-door-repair/IMG_0068.jpg",
 		delay: ".0s",
 		link: "/services/garage-door-repair",
 	},
@@ -42,7 +42,7 @@ export const services = [
 		title: "Garage Door Installation",
 		description:
 			"Professional installation of durable, energy-efficient residential sectional and carriage house garage doors in custom styles and colors.",
-		image: "/images/cable-repair/IMG_0769.jpg",
+		image: "/images/garage-door-installation/IMG_9509.jpg",
 		delay: ".2s",
 		link: "/services/garage-door-installation",
 	},
@@ -69,7 +69,7 @@ export const services = [
 		title: "Garage Door Spring Repair",
 		description:
 			"High-cycle torsion and extension spring replacement performed safely by trained technicians using heavy-duty steel springs.",
-		image: "/images/opener-repair/IMG_0764.jpg",
+		image: "/images/spring-repair/IMG_0770.jpg",
 		delay: ".8s",
 		link: "/services/spring-repair",
 	},
@@ -78,7 +78,7 @@ export const services = [
 		title: "Garage Door Cable Repair",
 		description:
 			"Safe rethreading and replacement of frayed, snapped, or loose lifting cables to ensure balanced, smooth door movement.",
-		image: "/images/opener-repair/IMG_0766.jpg",
+		image: "/images/cable-repair/IMG_0769.jpg",
 		delay: "1s",
 		link: "/services/cable-repair",
 	},
@@ -87,7 +87,7 @@ export const services = [
 		title: "Garage Door Opener Repair",
 		description:
 			"Diagnosis and repair of garage door opener motors, logic boards, strip gears, limit switches, and wall control panels.",
-		image: "/images/garage-door-repair/IMG_0068.jpg",
+		image: "/images/opener-repair/IMG_0764.jpg",
 		delay: "1.2s",
 		link: "/services/opener-repair",
 	},
@@ -96,7 +96,7 @@ export const services = [
 		title: "Garage Door Replacement",
 		description:
 			"Complete door and track replacement to overhaul old, sagging, or structurally damaged garage doors with high-R-value modern doors.",
-		image: "/images/spring-repair/IMG_0780.jpg",
+		image: "/images/garage-door-installation/IMG_8499.jpg",
 		delay: "1.4s",
 		link: "/services/garage-door-replacement",
 	},

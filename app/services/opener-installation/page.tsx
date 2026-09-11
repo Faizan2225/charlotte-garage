@@ -13,8 +13,8 @@ export default function OpenerInstallationPage() {
 			subtitle="Smart Opener Installation"
 			heading="Garage Door Opener Installation in Charlotte, NC"
 			intro="Upgrade your daily convenience and home security with a modern Wi-Fi enabled garage door opener. Charlotte Garage Door Repair installs whisper-quiet belt drives, heavy-duty chain drives, and wall-mount jackshaft openers featuring battery backup and smartphone app integration."
-			heroImage="/images/garage-door-repair/IMG_0068.jpg"
-			bandImage="/images/garage-door-repair/IMG_0774.jpg"
+			heroImage="/images/opener-repair/IMG_8733.jpg"
+			bandImage="/images/opener-repair/IMG_8781.jpg"
 			steps={[
 				{
 					icon: "fas fa-cog",

@@ -13,8 +13,8 @@ export default function ResidentialInstallationPage() {
 			subtitle="Residential Specialist"
 			heading="Residential Garage Door Installation in Charlotte, NC"
 			intro="Your garage door represents up to 40% of your home's front facade. Charlotte Garage Door Repair specializes in custom residential garage door installations, providing insulated steel, faux wood, carriage house, and contemporary full-view glass doors tailored to your home."
-			heroImage="/images/cable-repair/IMG_0769.jpg"
-			bandImage="/images/spring-repair/IMG_0777.jpg"
+			heroImage="/images/garage-door-installation/IMG_8499.jpg"
+			bandImage="/images/garage-door-installation/IMG_9509.jpg"
 			steps={[
 				{
 					icon: "fas fa-palette",

@@ -272,7 +272,7 @@ export default function Home() {
 			{/* Parallax Image Section */}
 			<section className="pb-80 jarallax" aria-label="section">
 				<Image
-					src="/images/spring-repair/IMG_0777.jpg"
+					src="/images/garage-door-installation/IMG_9509.jpg"
 					className="jarallax-img"
 					alt="Garage Door Installation"
 					width={1920}
@@ -284,7 +284,7 @@ export default function Home() {
 					<div className="row g-4 justify-content-center">
 						<div className="col-lg-10">
 							<Image
-								src="/images/cable-repair/IMG_0769.jpg"
+								src="/images/garage-door-installation/IMG_8499.jpg"
 								className="w-100 rounded-1"
 								alt="Residential Garage Door"
 								width={1200}
@@ -356,8 +356,8 @@ export default function Home() {
 				subtitle="Real Results"
 				title="Before & After: Smooth, Safe Operation"
 				description="See the difference professional garage door repair and installation make — from rusted, off-track, or noisy doors to quiet, balanced, and insulated door systems."
-				beforeImage="/images/opener-repair/IMG_0764.jpg"
-				afterImage="/images/cable-repair/IMG_0769.jpg"
+				beforeImage="/images/garage-door-repair/IMG_0068.jpg"
+				afterImage="/images/garage-door-installation/IMG_9509.jpg"
 				beforeAlt="Before Repair"
 				afterAlt="After Repair"
 				imageWidth={800}

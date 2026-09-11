@@ -13,8 +13,8 @@ export default function MaintenancePage() {
 			subtitle="Preventative Maintenance"
 			heading="Annual Garage Door Maintenance & Inspection"
 			intro="Prevent costly spring snaps, cable off-tracks, and opener failures with routine annual garage door maintenance. Our technicians perform a rigorous multi-point check, balance calibration, hardware tightening, and lubrication to keep your system performing flawlessly."
-			heroImage="/images/garage-door-repair/IMG_0774.jpg"
-			bandImage="/images/opener-repair/IMG_0764.jpg"
+			heroImage="/images/garage-door-repair/IMG_8966.jpg"
+			bandImage="/images/garage-door-repair/IMG_9098.jpg"
 			steps={[
 				{
 					icon: "fas fa-clipboard-list",

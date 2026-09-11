@@ -13,8 +13,8 @@ export default function OpenerRepairPage() {
 			subtitle="Opener Diagnostics"
 			heading="Garage Door Opener Repair in Charlotte, NC"
 			intro="If your garage door opener hums without moving, fails to respond to remotes, or reverses spontaneously, Charlotte Garage Door Repair is here to help. We repair motor assemblies, drive gears, circuit boards, safety sensors, and wall consoles for all major opener brands."
-			heroImage="/images/garage-door-repair/IMG_0068.jpg"
-			bandImage="/images/garage-door-repair/IMG_0774.jpg"
+			heroImage="/images/opener-repair/IMG_0764.jpg"
+			bandImage="/images/opener-repair/IMG_0766.jpg"
 			steps={[
 				{
 					icon: "fas fa-microchip",
