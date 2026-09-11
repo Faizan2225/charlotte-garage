@@ -118,10 +118,7 @@ export default async function BlogPostPage({ params }: Props) {
 				<div id="top"></div>
 
 				{/* Hero Section */}
-				<section
-					className="no-top no-bottom jarallax text-light"
-					style={{ marginTop: "120px" }}
-				>
+				<section className="jarallax text-light relative">
 					<Image
 						src={post.imageUrl}
 						className="jarallax-img"
@@ -129,7 +126,7 @@ export default async function BlogPostPage({ params }: Props) {
 						width={1920}
 						height={1080}
 					/>
-					<div className="sw-overlay op-8"></div>
+					<div className="sw-overlay op-6"></div>
 					<div className="container relative z-2">
 						<div className="row justify-content-center">
 							<div className="col-lg-10 text-center py-5">

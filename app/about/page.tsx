@@ -28,17 +28,19 @@ export const metadata: Metadata = {
 export default function AboutPage() {
 	return (
 		<div className="no-bottom no-top" id="content">
-			<section className="text-light jarallax">
+			<section className="text-light jarallax relative">
 				<img
-					src="/images/spring-repair/IMG_0777.jpg"
+					src="/images/hero/hero-1.jpg"
 					className="jarallax-img"
 					alt="About Charlotte Garage Door Repair"
 				/>
+				<div className="sw-overlay op-6"></div>
 				<div className="center-y relative text-center">
 					<div className="container">
 						<div className="row">
 							<div className="col-md-12 text-center">
 								<h1>About Us</h1>
+								<p className="lead">Charlotte&apos;s Trusted 24/7 Garage Door Specialists</p>
 							</div>
 						</div>
 					</div>

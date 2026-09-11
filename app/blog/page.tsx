@@ -48,18 +48,15 @@ export default function BlogPage() {
 			<div id="top"></div>
 
 			{/* Hero Section */}
-			<section
-				className="no-top no-bottom jarallax text-light"
-				style={{ marginTop: "120px" }}
-			>
+			<section className="jarallax text-light relative">
 				<Image
-					src="/images/spring-repair/IMG_0777.jpg"
+					src="/images/hero/hero-2.jpg"
 					className="jarallax-img"
 					alt="Charlotte Garage Door Repair Blog"
 					width={1920}
 					height={1080}
 				/>
-				<div className="sw-overlay op-8"></div>
+				<div className="sw-overlay op-6"></div>
 				<div className="container relative z-2">
 					<div className="row justify-content-center">
 						<div className="col-lg-8 text-center py-5">

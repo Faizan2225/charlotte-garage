@@ -20,13 +20,15 @@ export default function AppointmentPage() {
 
 	return (
 		<div className="no-bottom no-top" id="content">
-			<section className="text-light jarallax">
-				<img src="/images/spring-repair/IMG_0777.jpg" className="jarallax-img" alt="" />
+			<section className="text-light jarallax relative">
+				<img src="/images/hero/hero-2.jpg" className="jarallax-img" alt="Book Garage Door Service Appointment" />
+				<div className="sw-overlay op-6"></div>
 				<div className="center-y relative text-center">
 					<div className="container">
 						<div className="row">
 							<div className="col-md-12 text-center">
 								<h1>Book Service Appointment</h1>
+								<p className="lead">Fast, Convenient Online Service Scheduling</p>
 							</div>
 						</div>
 					</div>

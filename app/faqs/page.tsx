@@ -5,15 +5,16 @@ import FAQsAccordion from "@/components/FAQsAccordion";
 export default function FAQsPage() {
   return (
     <div className="no-bottom no-top" id="content">
-      <section className="text-light jarallax">
+      <section className="text-light jarallax relative">
         <Image
-          src="/images/spring-repair/IMG_0777.jpg"
+          src="/images/hero/hero-3.jpg"
           className="jarallax-img"
-          alt="FAQs Background"
+          alt="Frequently Asked Questions Background"
           width={1920}
           height={1080}
           priority
         />
+        <div className="sw-overlay op-6"></div>
         <div className="center-y relative text-center">
           <div className="container">
             <div className="row">

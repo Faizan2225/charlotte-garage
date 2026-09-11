@@ -27,19 +27,18 @@ export default function ContactPage() {
 
       <section className="bg-dark text-light relative jarallax">
         <div className="de-gradient-edge-top"></div>
-        <img src="/images/background/6.webp" className="jarallax-img" alt="" />
-        <div className="container relative z-2">
+        <img src="/images/hero/hero-2.jpg" className="jarallax-img" alt="Contact Charlotte Garage Door Repair" />
+        <div className="sw-overlay op-6"></div>
+        <div className="container relative z-2 text-center">
           <div className="row gy-4 gx-5 justify-content-center">
             <div className="col-lg-12 text-center">
-              <div className="spacer-double sm-hide"></div>
               <h1 className="mb-3 wow fadeInUp" data-wow-delay=".2s">
-                Contact
+                Contact Us
               </h1>
+              <p className="lead">24/7 Emergency Dispatch & Free Service Estimates</p>
             </div>
           </div>
         </div>
-
-        <div className="sw-overlay"></div>
       </section>
 
       <section>

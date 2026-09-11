@@ -105,19 +105,21 @@ export const services = [
 export default function ServicesPage() {
 	return (
 		<div className="no-bottom no-top" id="content">
-			<section className="text-light jarallax">
+			<section className="text-light jarallax relative">
 				<Image
-					src="/images/spring-repair/IMG_0777.jpg"
+					src="/images/hero/hero-1.jpg"
 					className="jarallax-img"
 					alt="Garage Door Repair Services in Charlotte NC"
 					width={1920}
 					height={1080}
 				/>
+				<div className="sw-overlay op-6"></div>
 				<div className="center-y relative text-center">
 					<div className="container">
 						<div className="row">
 							<div className="col-md-12 text-center">
-								<h1>Our Services</h1>
+								<h1>Our Garage Door Services</h1>
+								<p className="lead">Fast 24/7 Emergency Repairs, Spring Replacement, Openers & Installation</p>
 							</div>
 						</div>
 					</div>
